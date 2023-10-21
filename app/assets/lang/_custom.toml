@@ -7,8 +7,9 @@ title = "Helios Launcher"
 mediaGitHubURL = "https://github.com/dscalzi/HeliosLauncher"
 mediaTwitterURL = "#"
 mediaInstagramURL = "#"
-mediaYouTubeURL = "#"
+mediaYouTubeURL = "https://www.youtube.com/@4friendzone"
 mediaDiscordURL = "https://discord.gg/zNWUXdt"
+mediaTwitchURL = "https://www.twitch.tv/4friendzone"
 
 [ejs.settings]
 sourceGithubLink = "https://github.com/dscalZi/HeliosLauncher"
