@@ -1,14 +1,10 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "Helios Launcher"
+title = "Reboot SMP"
 
 [ejs.landing]
-mediaGitHubURL = "https://github.com/dscalzi/HeliosLauncher"
-mediaTwitterURL = "#"
-mediaInstagramURL = "#"
 mediaYouTubeURL = "https://www.youtube.com/@4friendzone"
-mediaDiscordURL = "https://discord.gg/zNWUXdt"
 mediaTwitchURL = "https://www.twitch.tv/4friendzone"
 
 [ejs.settings]
