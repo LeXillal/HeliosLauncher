@@ -8,8 +8,8 @@ mediaYouTubeURL = "https://www.youtube.com/@4friendzone"
 mediaTwitchURL = "https://www.twitch.tv/4friendzone"
 
 [ejs.settings]
-sourceGithubLink = "https://github.com/LeXillal/HeliosLauncher"
-supportLink = "https://github.com/LeXillal/HeliosLauncher/issues"
+sourceGithubLink = "https://LeXillal/rebootSMP/HeliosLauncher"
+supportLink = "https://LeXillal/rebootSMP/HeliosLauncher/issues"
 
 [ejs.welcome]
 welcomeHeader = "WELCOME TO WESTEROSCRAFT"
