@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
-  "version": "1.0.2",
-  "productName": "Helios Launcher",
+  "name": "rebootsmp",
+  "version": "1.0.3",
+  "productName": "RebootSMP Launcher",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "LeXillal",
   "license": "UNLICENSED",
   "homepage": "https://github.com/dscalzi/HeliosLauncher",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/LeXillal/rebootSMP/issues"
   },
   "private": true,
   "main": "index.js",
